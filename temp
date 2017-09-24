@@ -1,0 +1,51 @@
+                    <div class="cd-full-width">
+                        
+                        <div class="container-fluid js-tm-page-content" data-page-no="4" data-page-type="gallery">      
+                                              
+                            <div class="tm-img-gallery-container tm-img-gallery-container-3">
+                                
+                                <div class="tm-img-gallery gallery-three">
+                                <!-- Gallery Two pop up connected with JS code below -->
+                                    
+                                    <div class="tm-img-gallery-info-container">                                    
+                                        <h2 class="tm-text-title tm-gallery-title"><span class="tm-white">Third Image Grid</span></h2>
+                                        <p class="tm-text"><span class="tm-white">Nulla efficitur, ligula et imperdiet volutpat, lacus tortor tempus massa, eget tempus quam nibh vel nulla. Maecenas purus sem, lobortis id odio in, ultrices scelerisque sapien.</span>
+                                        </p>                                     
+                                    </div>
+                                    <div class="grid-item">
+                                        <!-- <figure class="effect-ruby"> -->
+                                            <img src="img/people1.jpg" alt="Image" class="img-fluid tm-img">
+                                            <!-- <P><img height=500 src="img/people1.jpg" width=500 align=left border=0>文章内容<BR>&nbsp;<BR clear=left></P> -->
+                                            <!-- <figcaption>
+                                                <h2 class="tm-figure-title">Picture <span>One</span></h2>
+                                                <p class="tm-figure-description">Suspendisse id placerat risus. Mauris quis luctus risus.</p>
+                                                <a href="img/tm-img-11.jpg">View more</a>
+                                            </figcaption>            -->
+                                        <!-- </figure> -->
+                                    </div>
+                                    <div class="grid-item">
+                                        <!-- <figure class="effect-ruby"> -->
+                                            <img src="img/people2.jpg" alt="Image" class="img-fluid tm-img">
+                                            <!-- <figcaption>
+                                                <h2 class="tm-figure-title">Picture <span>Two</span></h2>
+                                                <p class="tm-figure-description">Maecenas purus sem, lobortis id odio in sapien.</p>
+                                                <a href="img/tm-img-12.jpg">View more</a>
+                                            </figcaption>            -->
+                                        <!-- </figure> -->
+                                    </div>
+                                    <div class="grid-item">
+                                            <img src="img/people3.jpg" alt="Image" class="img-fluid tm-img">
+                                    </div>
+                                    <div class="grid-item">
+                                            <img src="img/people4.jpg" alt="Image" class="img-fluid tm-img">
+                                    </div>
+                                    <div class="grid-item">
+                                            <img src="img/people5.png" alt="Image" class="img-fluid tm-img">
+                                    </div>
+                                    <div class="grid-item">
+                                            <img src="img/people6.jpg" alt="Image" class="img-fluid tm-img">
+                                    </div>                                                                                                 
+                                </div>                                 
+                            </div> <!-- .tm-img-gallery-container -->
+                        </div>
+                    </div>
